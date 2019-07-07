@@ -1,2 +1,2 @@
 # libmfx_win
-mirror of Intel Medis SDK for Windows
+mirror of Intel Media SDK for Windows
